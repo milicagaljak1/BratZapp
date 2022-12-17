@@ -18,6 +18,7 @@ Windows:
 Pravljenje baze podataka
 ----------------------------------------
 1. korak: Uraditi komandu python manage.py migrate
+
 Napomena: pre pravljenja baze aktivirati virtuelno okruzenje (pise ispod kako)!
 
 Pokretanje Web aplikacije
